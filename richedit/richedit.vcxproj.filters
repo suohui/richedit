@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="richedit\CaretPosition.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="richedit\DataObj.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="richedit\document.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="richedit\editor.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="richedit\EditorWnd.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="richedit\line.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="richedit\style.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="richedit\UniConversion.cxx">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="richedit\CaretPosition.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="richedit\common.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="richedit\DataObj.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="richedit\define.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="richedit\document.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="richedit\drawer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="richedit\editor.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="richedit\editorInterface.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="richedit\EditorWnd.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="richedit\line.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="richedit\misc.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="richedit\SplitVector.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="richedit\style.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="richedit\TestObj.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="richedit\UniConversion.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="richedit\window.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
